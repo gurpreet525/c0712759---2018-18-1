@@ -10,6 +10,8 @@ namespace c0712759
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(1 + 1);
+            var Mydog = new Peanut("RUFF")
         }
     }
 }
